@@ -40,6 +40,8 @@ proxies = ["http://145.253.253.52:8080", "http://34.244.2.233:8123"]
 # Honeypots: No es necessari per aquesta website
 # Vigilar : Display:None
 # No fer més de 4 nivells de profunditat en links. 
+# En el nostre cas no hem detectat que existeixin honeypots, tot i que hi han 
+# Display:None 
 
 try:
     # Càlcul del temps de durada del procés de web-scraping.

@@ -44,7 +44,9 @@ proxies = ["http://145.253.253.52:8080", "http://34.244.2.233:8123"]
 
 # Honeypots:
 # Vigilar : Display:None
-# No fer més de 4 nivells de profunditat en links. 
+# No fer més de 4 nivells de profunditat en links.
+# En el nostre cas no hem detectat que existeixin honeypots, tot i que hi han 
+# Display:None 
 
 try:
     # Definim l'estructura del dataframe.
