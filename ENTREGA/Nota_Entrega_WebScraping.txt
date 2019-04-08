@@ -1,0 +1,18 @@
+
+
+   Hola Diego:
+
+   Aquest es l'informe de la pràctica 1- "Web scraping", realitzada amb Juanjo Díez Moya, 
+   la URL de GitHub al final és la del Juanjo, està especificada també en el document adjunt:
+
+   https://github.com/jjdiezm/Practica1
+
+   Està tot descrit al Readme.md i a la wiki. 
+   L'entrega té una carpeta ('ENTREGA') on hem concentrat tots els fitxers rellevants:
+   
+	- Codi font.
+	- Informe
+	- Utilitats complementàries (per facilitar la prova del codi font).
+
+   Salutacions 
+   Quim de Dalmases.
