@@ -1,4 +1,4 @@
-# Practica1
+# ESTUDI 1
 
 ## Webscraping - Liga de Fútbol.
 
